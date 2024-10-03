@@ -1,8 +1,11 @@
-In OpenGL, we implemented a billiard board with one ball moving in a region bounded by planes. Also, we implemented a magic cube that makes a transition between a sphere and an octahedron.
+![Screenshot (134)](https://github.com/user-attachments/assets/804dcc10-4559-49ff-9c61-dd727f8b3c36)In OpenGL, we implemented a billiard board with one ball moving in a region bounded by planes. Also, we implemented a magic cube that makes a transition between a sphere and an octahedron.
 
-![Screen![Screenshot (132)](https://github.com/user-attachments/assets/98201c51-1cff-4248-b768-985e8695d90f)
-shot (133)](https://github.com/user-attachments/assets/da4ae582-d548-414c-be80-dbdec05a74da)
-![Screenshot (134)](https://github.com/user-attachments/assets/fffafecd-5861-40b0-a571-9838ae87983b)
+![Screenshot (132)](https://github.com/user-attachments/assets/a8ce0e09-04b7-4ad2-a71e-bf4c670a3a2d)
+
+![Screenshot (133)](https://github.com/user-attachments/assets/e8373e46-d849-4fa9-aac4-5abeffdc332e)
+
+
+![Screenshot (134)](https://github.com/user-attachments/assets/332cc4e1-6186-4f93-a0b2-1342af016b74)
 
 In Rasterization, we implemented Z-buffer
 
